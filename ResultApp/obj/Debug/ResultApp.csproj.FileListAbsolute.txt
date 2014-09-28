@@ -1,0 +1,9 @@
+c:\users\popy\documents\visual studio 2013\Projects\ResultApp\ResultApp\bin\Debug\ResultApp.exe.config
+c:\users\popy\documents\visual studio 2013\Projects\ResultApp\ResultApp\obj\Debug\ResultApp.csprojResolveAssemblyReference.cache
+c:\users\popy\documents\visual studio 2013\Projects\ResultApp\ResultApp\obj\Debug\ResultApp.Form1.resources
+c:\users\popy\documents\visual studio 2013\Projects\ResultApp\ResultApp\obj\Debug\ResultApp.Properties.Resources.resources
+c:\users\popy\documents\visual studio 2013\Projects\ResultApp\ResultApp\obj\Debug\ResultApp.csproj.GenerateResource.Cache
+c:\users\popy\documents\visual studio 2013\Projects\ResultApp\ResultApp\bin\Debug\ResultApp.exe
+c:\users\popy\documents\visual studio 2013\Projects\ResultApp\ResultApp\bin\Debug\ResultApp.pdb
+c:\users\popy\documents\visual studio 2013\Projects\ResultApp\ResultApp\obj\Debug\ResultApp.exe
+c:\users\popy\documents\visual studio 2013\Projects\ResultApp\ResultApp\obj\Debug\ResultApp.pdb
